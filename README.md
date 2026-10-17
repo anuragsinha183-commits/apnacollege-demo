@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my second project 
-Author - Anurag kumaar
+This is my second project <br> 
+Author - Anurag kumar
